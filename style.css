@@ -1,0 +1,101 @@
+.righttop ul li {
+    float: right;
+    list-style: none;
+    padding-right: 35px;
+}
+
+.righttop ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.righttop ul li a:hover {
+    text-decoration: underline;
+}
+
+ul li img .uicon {
+    height: 25px;
+
+}
+
+ul li img .aicon {
+    height: 24px;
+}
+
+.google {
+    margin: 0 500px;
+    margin-top: 80px;
+}
+:placeholder-shown{
+    padding-left: 100px;
+}
+input {
+    border: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style:outset ;
+    border-radius: 30px;
+    width: 500px;
+    height: 50px;
+    margin-left:390px;
+}
+.one{
+    padding: 2px;
+    width: 100px;
+    margin-left: 389px;
+}
+.two{
+    padding: 2px;
+    width: 150px;
+    margin-left: 247px;
+}
+footer li {
+    list-style: none;
+    float: left;
+    margin-left: 30px;
+}
+footer li .leftbtm{
+    float: left;
+    margin-left: 30px;
+}
+.rightbtm{
+    float: right;
+    margin-right: 30px;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+}
+footer p{
+    margin-left: 20px;
+}
+.cloud{
+    font-size: 16px;
+    margin-top: 15px ;
+    margin-left: 400px;
+}
+.cloud a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+.cloud .gcn{
+    color: rgb(6, 106, 255);
+}
+.cloud .gcn:hover{
+    text-decoration: underline;
+}
+.mic{
+    width: 30px;
+    float: right;
+    margin: 0px 536px;
+}
+.language{
+    color:gray ;
+    margin-left: 400px;
+}
+#lang{
+    padding: 25px;
+    list-style: none;
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
