@@ -57,9 +57,12 @@ footer li .leftbtm{
     float: left;
     margin-left: 30px;
 }
+.btm{
+    display: flex;
+}
 .rightbtm{
     float: right;
-    margin-right: 30px;
+    margin-right: 550px;
 }
 footer a{
     text-decoration: none;
