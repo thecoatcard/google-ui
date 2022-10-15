@@ -48,6 +48,9 @@ input {
     width: 150px;
     margin-left: 247px;
 }
+.btm{
+    display: flex;
+}
 footer li {
     list-style: none;
     float: left;
@@ -56,9 +59,6 @@ footer li {
 footer li .leftbtm{
     float: left;
     margin-left: 30px;
-}
-.btm{
-    display: flex;
 }
 .rightbtm{
     float: right;
